@@ -1,0 +1,3 @@
+Magnitude | FrequencyLight(4.5-4.9): 273Magnitude | FrequencyLight(4.5-4.9): 273106 
+Heavy(5.9-6.9) :     8 
+Strong(6.9-7.9):     0 
